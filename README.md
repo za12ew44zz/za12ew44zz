@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @za12ew44zz
+- 👋 Hi, I’m Zag
 - 👀 I’m interested in HTML,CSS,Javascript
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...
