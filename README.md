@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zag
-- 👀 I’m interested in HTML,CSS,Javascript
+- 👀 I’m interested in HTML,CSS,Javascript,Python,Java
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
