@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zag
-- What is your favorite OS?
+- What is my favorite OS?
 -   Debian
 
 
