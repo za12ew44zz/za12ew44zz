@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zag
 ===========================================================================================================================
 
-I started self-taught learning how to programming when i was 21 in 2021 , now i am Computer Engineering student. I like everything about programming, Software and Hardware.
+I started self-taught learning how to programming when i was 21 in 2021 , now i am Computer Engineering student(2024). I like everything about programming, Software and Hardware.
         My my favorite programing is C++ and Rust(Now).
 *   🌍  I'm based in Thailand
 *   🧠  I'm learning Rust,Data structure & Algorithm<a href="https://www.github.com/za12ew44zz" target="_blank" rel="noreferrer">
